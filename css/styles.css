@@ -1,0 +1,218 @@
+.adventure-caption {
+  background-color: #BAD7E9;
+  color: #2B3467;
+  width: 21rem;
+  padding: 1rem 1rem;
+}
+
+.adventure-img {
+  width: 21rem;
+}
+
+body {
+  text-align: justify;
+}
+
+.call2act {
+  color: #BAD7E9;
+  font-size: 4rem;
+  line-height: 1;
+}
+
+@media (max-width: 768px) {
+  .call2act {
+    font-size: 3.5rem;
+  }
+}
+
+.colored-section {
+  background-color: #2B3467;
+}
+
+.colored-title {
+  color: #2B3467;
+}
+
+.container-fluid {
+  padding: 3% 15% 7%;
+}
+
+.copyright {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem 0;
+}
+
+@media (max-width: 768px) {
+  .copyright {
+    font-size: 0.9rem;
+  }
+}
+
+.fa-2x {
+  padding: 0 1rem;
+  color: #EB455F;
+}
+
+.footer {
+  padding: 2rem; 0 0;
+}
+
+form {
+  padding: 2rem 4rem;
+}
+
+@media (max-width: 768px) {
+  form {
+    padding: 2rem 0 0;
+  }
+}
+
+h2, h3, h4, .call2act {
+  font-family: 'East Sea Dokdo';
+}
+
+.highlight {
+  color: #EB455F;
+}
+
+input {
+  width: 10rem;
+}
+
+.intro {
+  color: #FCFFE7;
+  padding: 5% 0% 0%;
+}
+
+.intro-pic {
+  width: 25rem;
+  position: absolute;
+  right: 20%;
+}
+
+.intro-img {
+  width: 25rem;
+  position: absolute;
+  right: 20%;
+}
+
+@media (max-width: 768px) {
+  .intro-img {
+    position: static;
+    width: 21rem;
+  }
+}
+
+.job-caption {
+  color: #FCFFE7;
+  line-height: 2.25;
+}
+
+@media (max-width: 1098px) {
+  .job-description {
+  color: #FCFFE7;
+  width: 21rem;
+  }
+}
+
+.job-img {
+  width: 21rem;
+}
+
+label {
+  color: #FCFFE7;
+}
+
+.navbar {
+  background-color: #2B3467;
+  padding: 0 1rem;
+}
+
+.navbar-brand {
+  background-color: #2B3467;
+  font-family: 'Slackey';
+  font-size: 2rem;
+  color: #FCFFE7;
+}
+
+.navbar-brand:hover {
+  color: #EB455F;
+}
+
+.navbar-toggler[aria-expanded="false"] {
+  background-color: #FCFFE7;
+}
+
+
+.nav-link {
+  font-family: 'East Sea Dokdo';
+  font-size: 1.5rem;
+  color: #FCFFE7;
+}
+
+.nav-link:hover {
+  color: #EB455F;
+}
+
+.my-website {
+  color: #EB455F;
+}
+
+p {
+  font-family: 'Neucha';
+  color: #2B3467;
+  line-height: 2;
+}
+
+.school-caption {
+  background-color: #BAD7E9;
+  color: #2B3467;
+  width: 31rem;
+  padding: 1rem;
+}
+
+@media (max-width: 768px) {
+  .school-caption {
+    width: 21rem;
+  }
+}
+
+.school-img {
+  width: 31rem;
+}
+
+@media (max-width: 768px) {
+  .school-img {
+    width: 21rem;
+  }
+}
+
+.section-title {
+  font-size: 3rem;
+  padding-bottom: 2rem;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  color: #FCFFE7;
+  font-size: 5rem;
+}
+.subtitle {
+  color: #EB455F;
+  font-size: 3.5rem;
+}
+
+.white-section {
+  background-color: #FCFFE7;
+}
+
+.white-title {
+  color: #FCFFE7;
+}

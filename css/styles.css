@@ -105,7 +105,8 @@ input {
   .intro-img {
     max-width: 100%;
     height: auto;
-    display: static;
+    position: static;
+    display: block;
     margin: 0 auto;
   }
 }

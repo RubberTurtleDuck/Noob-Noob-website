@@ -102,8 +102,9 @@ input {
   .intro-img {
     max-width: 100%;
     height: auto;
-    display: block;
+    display: relative;
     margin: 0 auto;
+    left: 10%;
   }
 }
 
@@ -218,6 +219,13 @@ p {
   color: #FCFFE7;
   font-size: 5rem;
 }
+
+@media (max-widdth: 1098px;) {
+  .title {
+    font-size: 4rem;
+  }
+}
+
 .subtitle {
   color: #EB455F;
   font-size: 3.5rem;

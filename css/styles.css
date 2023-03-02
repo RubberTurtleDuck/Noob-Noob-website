@@ -100,8 +100,10 @@ input {
 
 @media (max-width: 1098px) {
   .intro-img {
-    position: static;
-    width: 21rem;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
   }
 }
 
@@ -119,6 +121,15 @@ input {
 
 .job-img {
   width: 21rem;
+}
+
+@media (max-width: 1098px) {
+  .job-img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
 }
 
 label {
@@ -185,7 +196,10 @@ p {
 
 @media (max-width: 1098px) {
   .school-img {
-    width: 21rem;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
   }
 }
 

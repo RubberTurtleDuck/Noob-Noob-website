@@ -98,13 +98,14 @@ input {
 .intro-img {
   width: 25rem;
   position: static;
+  right: 20%;
 }
 
 @media (max-width: 1098px) {
   .intro-img {
     max-width: 100%;
     height: auto;
-    display: block;
+    display: static;
     margin: 0 auto;
   }
 }

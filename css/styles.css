@@ -8,6 +8,15 @@
   width: 21rem;
 }
 
+@media (max-width: 1098px) {
+  .adventure-img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+}
+
 body {
   text-align: justify;
 }

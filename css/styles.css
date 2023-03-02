@@ -97,7 +97,7 @@ input {
 
 .intro-img {
   width: 25rem;
-  position: static;
+  position: absolute;
   right: 20%;
 }
 

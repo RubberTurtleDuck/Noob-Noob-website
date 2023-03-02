@@ -95,16 +95,9 @@ input {
   padding: 5% 0% 0%;
 }
 
-.intro-pic {
-  width: 25rem;
-  position: absolute;
-  right: 20%;
-}
-
 .intro-img {
   width: 25rem;
-  position: absolute;
-  right: 20%;
+  position: static;
 }
 
 @media (max-width: 1098px) {

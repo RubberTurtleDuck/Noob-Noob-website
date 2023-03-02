@@ -1,8 +1,7 @@
 .adventure-caption {
   background-color: #BAD7E9;
   color: #2B3467;
-  width: 21rem;
-  padding: 1rem 1rem;
+  line-height: 2.25;
 }
 
 .adventure-img {
@@ -104,7 +103,6 @@ input {
     height: auto;
     display: block;
     margin: 0 auto;
-    left: 10%;
   }
 }
 

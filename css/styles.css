@@ -19,7 +19,7 @@ body {
   line-height: 1;
 }
 
-@media (max-width: 1098px) {
+@media (max-width: 768px) {
   .call2act {
     font-size: 3.5rem;
   }
@@ -44,7 +44,7 @@ body {
   padding: 1rem 0;
 }
 
-@media (max-width: 1098px) {
+@media (max-width: 768px) {
   .copyright {
     font-size: 0.9rem;
   }
@@ -63,7 +63,7 @@ form {
   padding: 2rem 4rem;
 }
 
-@media (max-width: 1098px) {
+@media (max-width: 768px) {
   form {
     padding: 2rem 0 0;
   }
@@ -98,7 +98,7 @@ input {
   right: 20%;
 }
 
-@media (max-width: 1098px) {
+@media (max-width: 768px) {
   .intro-img {
     position: static;
     width: 21rem;
@@ -110,7 +110,7 @@ input {
   line-height: 2.25;
 }
 
-@media (max-width: 1098px) {
+@media (max-width: 768px) {
   .job-description {
   color: #FCFFE7;
   width: 21rem;
@@ -173,7 +173,7 @@ p {
   padding: 1rem;
 }
 
-@media (max-width: 1098px) {
+@media (max-width: 768px) {
   .school-caption {
     width: 21rem;
   }
@@ -183,7 +183,7 @@ p {
   width: 31rem;
 }
 
-@media (max-width: 1098px) {
+@media (max-width: 768px) {
   .school-img {
     width: 21rem;
   }
